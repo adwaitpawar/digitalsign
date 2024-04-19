@@ -72,3 +72,5 @@ D:\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.csproj.CopyCompl
 D:\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.dll
 D:\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.pdb
 D:\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.csprojAssemblyReference.cache
+D:\Clover\DigitalSignature\obj\Debug\DigitalSignature.dll
+D:\Clover\DigitalSignature\obj\Debug\DigitalSignature.pdb
