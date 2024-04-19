@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSignature", "DigitalSignature\DigitalSignature.csproj", "{E9FFFEAB-33DD-4BEC-8A1C-BC2F9DDF9841}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSignature\DigitalSignature.csproj", "{E9FFFEAB-33DD-4BEC-8A1C-BC2F9DDF9841}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
